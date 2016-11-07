@@ -10,7 +10,7 @@
     },
     "dependencies" : {},
     "devDependencies" : {
-        "tape" : "~4.0.0"
+        "tape" : "~4.6.2"
     },
     "scripts" : {
         "test" : "tape test/*.js"
